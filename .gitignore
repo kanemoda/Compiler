@@ -1,0 +1,7 @@
+#binaries
+main
+main.sh
+
+#object files
+*.o
+
